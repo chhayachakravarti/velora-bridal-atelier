@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <defs>
+    <linearGradient id="veloraBg" x1="8" y1="8" x2="56" y2="56" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#ec4899" />
+      <stop offset="100%" stop-color="#9333ea" />
+    </linearGradient>
+    <linearGradient id="veloraGold" x1="18" y1="14" x2="46" y2="50" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#fef3c7" />
+      <stop offset="100%" stop-color="#f9a8d4" />
+    </linearGradient>
+  </defs>
+
+  <!-- Circular Badge -->
+  <circle cx="32" cy="32" r="30" fill="url(#veloraBg)" />
+  <circle cx="32" cy="32" r="27" stroke="#fbcfe8" stroke-width="1.5" stroke-opacity="0.7" />
+
+  <!-- Lotus / Bridal Crown Petals -->
+  <path
+    d="M32 13C35.5 19.5 36.5 25 32 30C27.5 25 28.5 19.5 32 13Z"
+    fill="url(#veloraGold)"
+  />
+  <path
+    d="M19 22C24.5 23 28.5 26.5 30 32C24.5 31.5 20.5 27.5 19 22Z"
+    fill="#fdf2f8"
+    fill-opacity="0.92"
+  />
+  <path
+    d="M45 22C43.5 27.5 39.5 31.5 34 32C35.5 26.5 39.5 23 45 22Z"
+    fill="#fdf2f8"
+    fill-opacity="0.92"
+  />
+
+  <!-- Elegant V Monogram -->
+  <path
+    d="M21 34L32 50L43 34"
+    stroke="#ffffff"
+    stroke-width="3.6"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+
+  <!-- Small Sparkle -->
+  <circle cx="32" cy="10" r="1.6" fill="#fef3c7" />
+</svg>

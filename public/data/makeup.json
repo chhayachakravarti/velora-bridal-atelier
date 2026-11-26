@@ -1,0 +1,94 @@
+{
+  "makeup": [
+    {
+      "id": 1,
+      "name": "Bridal Glow Foundation",
+      "image": "/makeup/bridal1.jpg",
+      "video": "/lehnga/v1.mp4",
+      "price": 2999,
+      "type": "Foundation",
+      "brand": "Lakme"
+    },
+    {
+      "id": 2,
+      "name": "Everlasting Bridal Lipstick",
+      "image": "/makeup/b2.jpg",
+      "video": "/lehnga/v1.mp4",
+      "price": 1299,
+      "type": "Lipstick",
+      "brand": "MAC"
+    },
+    {
+      "id": 3,
+      "name": "Bridal Radiance Blush",
+      "image": "/makeup/b7.jpg",
+      "video": "/lehnga/v1.mp4",
+      "price": 999,
+      "type": "Blush",
+      "brand": "Maybelline"
+    },
+    {
+      "id": 4,
+      "name": "Intense Bridal Eyeliner",
+      "image": "/makeup/b4.jpg",
+      "video": "/lehnga/v1.mp4",
+      "price": 799,
+      "type": "Eyeliner",
+      "brand": "Lakme"
+    },
+    {
+      "id": 5,
+      "name": "Shimmer Bridal Eyeshadow Palette",
+      "image": "/makeup/b7.jpg",
+      "video": "/lehnga/v1.mp4",
+      "price": 2599,
+      "type": "Eyeshadow",
+      "brand": "MAC"
+    },
+    {
+      "id": 6,
+      "name": "Bridal Matte Lipstick",
+      "image": "/makeup/b6.jpg",
+      "video": "/lehnga/v1.mp4",
+      "price": 1199,
+      "type": "Lipstick",
+      "brand": "Nykaa"
+    },
+    {
+      "id": 7,
+      "name": "Bridal Contour Kit",
+      "image": "/makeup/b7.jpg",
+      "video": "/lehnga/v1.mp4",
+      "price": 1999,
+      "type": "Contour",
+      "brand": "Lakme"
+    },
+    {
+      "id": 8,
+      "name": "Longwear Bridal Mascara",
+      "image": "/makeup/b4.jpg",
+      "video": "/lehnga/v1.mp4",
+      "price": 899,
+      "type": "Mascara",
+      "brand": "Maybelline"
+    },
+    {
+      "id": 9,
+      "name": "Radiant Bridal Highlighter",
+      "image": "/makeup/b7.jpg",
+      "video": "/lehnga/v1.mp4",
+      "price": 1499,
+      "type": "Highlighter",
+      "brand": "MAC"
+    },
+    {
+      "id": 10,
+      "name": "Bridal Setting Powder",
+      "image": "/makeup/bridal1.jpg",
+      "video": "/lehnga/v1.mp4",
+      "price": 799,
+      "type": "Powder",
+      "brand": "Nykaa"
+    }
+  ]
+}
